@@ -11,4 +11,18 @@ ___  ___ _      _____ _                                 _                     _ 
                                                                                             |___/     
 ```
 
-## Home
+## About
+
+Here lie the writings of MLȘaman, aka Andrei.
+
+![Alt text](yLjLf4oa_400x400.jpg)
+
+Sick and tired of predatory and/or obnoxious platforms like Medium or Substack, but I also don't have the time and energy to put into hosting a proper blog. In the end, why "blog" when you can just commit & push.
+
+Feel encouraged to:
+- star this repo
+- follow it
+- follow [@andreinot](https://x.com/andreinot) on X
+
+> Cheers, Namaste & happy hacking!
+> `___(⊙ ‿ ⊙)🪄___`
